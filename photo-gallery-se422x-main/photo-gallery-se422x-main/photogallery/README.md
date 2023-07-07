@@ -4,13 +4,13 @@ Run either of the two in a folder of your choice
 
 Using SSH
 
-`git clone git@git.ece.iastate.edu:lucaso/photo-gallery-se422x.git`
+`git clone git@github.com:akashp3128/Resume-Projects.git`
 
 or
 
 Using https 
 
-`git clone https://git.ece.iastate.edu/lucaso/photo-gallery-se422x.git`
+`git clone https://github.com/akashp3128/Resume-Projects.git`
 
 Change to the right branch 
 
